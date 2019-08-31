@@ -1,0 +1,12 @@
+{
+  "name": "findit",
+  "version": "1.0.0",
+  "description": "search reddit for articles",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "James Adams",
+  "license": "ISC"
+}
