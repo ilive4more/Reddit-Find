@@ -1,3 +1,3 @@
 # Reddit-Search
 
-Simple search program for Reddit articles.
+Simple application to search Reddit articles.
